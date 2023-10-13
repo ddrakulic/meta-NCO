@@ -1,0 +1,10 @@
+{
+  "node_dim": 3,
+  "voc_edges_in": 6,
+  "voc_edges_out": 2,
+  "hidden_dim": 300,
+  "num_layers": 30,
+  "mlp_layers": 3,
+  "aggregation": "mean",
+  "beam_size": 1
+}

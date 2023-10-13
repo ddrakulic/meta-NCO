@@ -1,0 +1,18 @@
+{
+  "max_epochs": 1500,
+  "val_every": 5,
+  "test_every": 2000,
+
+  "batch_size": 20,
+  "meta_learning_rate": 0.001,
+  "task_learning_rate": 0.001,
+  "decay_rate": 0.999,
+
+  "train_steps_per_epoch": 1,
+
+  "finetuning_steps": 500,
+
+  "test_finetuning_steps": 0,
+  "test_finetuning_learning_rate": 0.0001,
+  "test_after_every_finetuning_steps": 2
+}
