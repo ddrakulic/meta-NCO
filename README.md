@@ -14,6 +14,6 @@ For the paper associated with this codebase, please check [On the Generalization
   author = {Sahil Manchanda and Sofia Michel and Darko Drakulic and Jean-Marc Andreoli},
   booktitle = {European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)},
   year = {2022},
-  url={url={https://arxiv.org/abs/2301.03313},},
+  url={https://arxiv.org/abs/2301.03313},
 }
 ```
