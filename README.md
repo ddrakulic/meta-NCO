@@ -1,6 +1,6 @@
 ### On the Generalization of Neural Combinatorial Optimization Heuristics
 
-We provide the code for generic meta-training procedure to learn robust NCO heuristics, applicable to both reinforcement and supervised learning framework. 
+We provide the code for a generic meta-training procedure to learn robust NCO heuristics, applicable to both reinforcement and supervised learning frameworks. 
 Our code is based on the following repositories:
 1. [Attention, Learn to Solve Routing Problems!](https://github.com/wouterkool/attention-learn-to-route) and
 2. [An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem](https://github.com/chaitjo/graph-convnet-tsp)
