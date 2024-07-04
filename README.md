@@ -7,6 +7,7 @@ Our code is based on the following repositories:
    
 For the paper associated with this codebase, please check [On the Generalization of Neural Combinatorial Optimization Heuristics](https://arxiv.org/pdf/2206.00787). If you find this code useful, please cite our paper as:
 
+```
 @inproceedings{
   manchanda_generalization_2022,
   title = {On the Generalization of Neural Combinatorial Optimization Heuristics},
@@ -15,3 +16,4 @@ For the paper associated with this codebase, please check [On the Generalization
   year = {2022},
   url={url={https://arxiv.org/abs/2301.03313},},
 }
+```
